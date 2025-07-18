@@ -20,9 +20,11 @@ Permite adicionar, listar, filtrar, editar gastos e visualizar estatísticas bá
 ## Como usar
 
 1. Compile o código:
+   
 javac Main.java Gasto.java
 
-Execute a aplicação:
+2. Execute a aplicação:
+   
 java Main
 
 Autor
