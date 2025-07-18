@@ -32,24 +32,23 @@ Digite a data (dd/MM/yyyy): 15/07/2025
 Digite a categoria: Alimentação  
 Gasto adicionado com sucesso!
 
-Tecnologias
-Java 17
+Tecnologias: Java 17
 
 IDE: VS Code
 
 Execução via terminal
 
-Organização
+Organização:
+
 Main.java: controle de fluxo da aplicação
 
 Gasto.java: classe que representa cada gasto
 
-Como rodar
-Clone este repositório
+Como rodar: Clone este repositório
 
 Abra no VS Code
 
-Compile e execute Main.java
+Compile e execute: Main.java
 
 Use o menu interativo via terminal
 
