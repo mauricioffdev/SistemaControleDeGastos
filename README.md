@@ -2,6 +2,8 @@
 
 Este projeto em Java permite o controle simples de gastos pessoais via terminal. É uma aplicação 100% console, ideal para praticar lógica, manipulação de listas e operações com datas.
 
+> 🔄 No futuro, este sistema poderá evoluir para versões com interface gráfica usando **JavaFX** ou aplicação web com **Spring Boot**.
+
 ## 🔧 Funcionalidades
 
 | Função                       | Descrição                                                               |
@@ -22,6 +24,7 @@ Este projeto em Java permite o controle simples de gastos pessoais via terminal.
 4. Ajustar um gasto
 5. Estatísticas básicas
 6. Sair
+   
 Escolha uma opção: 1
 
 Digite o valor do gasto: 45.90  
