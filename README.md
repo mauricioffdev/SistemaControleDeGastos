@@ -44,7 +44,9 @@ Main.java: controle de fluxo da aplicação
 
 Gasto.java: classe que representa cada gasto
 
-Como rodar: Clone este repositório
+Como rodar: 
+
+Clone este repositório
 
 Abra no VS Code
 
