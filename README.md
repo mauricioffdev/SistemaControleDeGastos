@@ -1,31 +1,55 @@
-# Sistema de Controle de Gasto Mensal (Console)
+# 💰 Sistema de Controle de Gastos Mensal (Console - Java)
 
-Projeto Java simples para controle de gastos mensais via console.  
-Permite adicionar, listar, filtrar, editar gastos e visualizar estatísticas básicas.
+Este projeto em Java permite o controle simples de gastos pessoais via terminal. É uma aplicação 100% console, ideal para praticar lógica, manipulação de listas e operações com datas.
 
-## Funcionalidades
+## 🔧 Funcionalidades
 
-- Adicionar gasto com data, categoria, descrição e valor.
-- Listar todos os gastos.
-- Filtrar gastos por categoria.
-- Filtrar gastos por mês e ano.
-- Editar um gasto existente.
-- Mostrar estatísticas (média, maior e menor gasto).
+| Função                       | Descrição                                                               |
+|-----------------------------|--------------------------------------------------------------------------|
+| ➕ Adicionar gasto           | Cadastra um novo gasto com valor, data e categoria                     |
+| 📄 Listar gastos             | Mostra todos os gastos registrados                                     |
+| 🔎 Filtrar por período       | Permite ver gastos dentro de um intervalo de datas                     |
+| ✏️ Ajustar um gasto          | Edita informações de um gasto já existente                             |
+| 📉 Ver estatísticas básicas  | Mostra total de gastos e média por categoria                           |
+| ❌ Sair                      | Encerra o programa                                                     |
 
-## Tecnologias
+## ▶️ Exemplo de uso
 
-- Java 17
-- Console (linha de comando)
+----- MENU -----
+1. Adicionar novo gasto
+2. Listar todos os gastos
+3. Filtrar gastos por período
+4. Ajustar um gasto
+5. Estatísticas básicas
+6. Sair
+Escolha uma opção: 1
 
-## Como usar
+Digite o valor do gasto: 45.90  
+Digite a data (dd/MM/yyyy): 15/07/2025  
+Digite a categoria: Alimentação  
+Gasto adicionado com sucesso!
 
-1. Compile o código:
-   
-javac Main.java Gasto.java
+Tecnologias
+Java 17
 
-2. Execute a aplicação:
-   
-java Main
+IDE: VS Code
 
-Autor
-Mauricio
+Execução via terminal
+
+Organização
+Main.java: controle de fluxo da aplicação
+
+Gasto.java: classe que representa cada gasto
+
+Como rodar
+Clone este repositório
+
+Abra no VS Code
+
+Compile e execute Main.java
+
+Use o menu interativo via terminal
+
+Feito com dedicação para fins didáticos.
+
+Autor: Mauricio 
